@@ -1,1 +1,1 @@
-# kac-kelime-oldugunu-bulma
+# Girilen cumlede kac kelime oldugunu bulan uygulama
